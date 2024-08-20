@@ -1,0 +1,21 @@
+{
+  "name": "unidade-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.7.3",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0"
+  }
+
+}
